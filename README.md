@@ -1,4 +1,4 @@
-"# Introduction to Data Compression" 
+# Introduction to Data Compression
 Instructor
 
 - 	[Jiunn-Lin Wu](http://web.nchu.edu.tw/~jlwu)
